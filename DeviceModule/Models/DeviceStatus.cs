@@ -1,0 +1,1 @@
+// DeviceStatus 推荐直接从 CommonModels 引用，无需冗余拷贝
