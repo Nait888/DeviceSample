@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CommonModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CommonModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommonModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommonModels/1.0.0": {
+      "type": "project",
+      "path": "../CommonModels/CommonModels.csproj",
+      "msbuildProject": "../CommonModels/CommonModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CommonModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GU\\.nuget\\packages\\": {},
+    "C:\\MySoft\\Microsoft\\VS\\2022Preview\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\DeviceModule.csproj",
+      "projectName": "DeviceModule",
+      "projectPath": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\DeviceModule.csproj",
+      "packagesPath": "C:\\Users\\GU\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\MySoft\\Microsoft\\VS\\2022Preview\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\GU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\GU\\.nuget\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "framework": "net6.0",
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\CommonModels\\CommonModels.csproj": {
+              "projectPath": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\CommonModels\\CommonModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.200"
+    },
+    "frameworks": {
+      "net6.0": {
+        "framework": "net6.0",
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

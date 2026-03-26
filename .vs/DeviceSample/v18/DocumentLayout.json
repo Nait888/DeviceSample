@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|c:\\users\\gu\\desktop\\devicesample\\devicesample\\devicemodule\\extensions\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|solutionrelative:devicemodule\\extensions\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|c:\\users\\gu\\desktop\\devicesample\\devicesample\\devicemodule\\factories\\deviceservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|solutionrelative:devicemodule\\factories\\deviceservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|c:\\users\\gu\\desktop\\devicesample\\devicesample\\devicemodule\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|solutionrelative:devicemodule\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|c:\\users\\gu\\desktop\\devicesample\\devicesample\\devicemodule\\services\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|solutionrelative:devicemodule\\services\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|c:\\users\\gu\\desktop\\devicesample\\devicesample\\devicemodule\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|solutionrelative:devicemodule\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|c:\\users\\gu\\desktop\\devicesample\\devicesample\\devicemodule\\thirdpartylibs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|DeviceModule\\DeviceModule.csproj|solutionrelative:devicemodule\\thirdpartylibs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Extensions\\README.md",
+              "RelativeDocumentMoniker": "DeviceModule\\Extensions\\README.md",
+              "ToolTip": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Extensions\\README.md",
+              "RelativeToolTip": "DeviceModule\\Extensions\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-26T05:51:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Factories\\DeviceServiceFactory.cs",
+              "RelativeDocumentMoniker": "DeviceModule\\Factories\\DeviceServiceFactory.cs",
+              "ToolTip": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Factories\\DeviceServiceFactory.cs",
+              "RelativeToolTip": "DeviceModule\\Factories\\DeviceServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:51:31.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Models\\DeviceStatus.cs",
+              "RelativeDocumentMoniker": "DeviceModule\\Models\\DeviceStatus.cs",
+              "ToolTip": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Models\\DeviceStatus.cs",
+              "RelativeToolTip": "DeviceModule\\Models\\DeviceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:51:23.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Services\\IDeviceService.cs",
+              "RelativeDocumentMoniker": "DeviceModule\\Services\\IDeviceService.cs",
+              "ToolTip": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Services\\IDeviceService.cs",
+              "RelativeToolTip": "DeviceModule\\Services\\IDeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:51:20.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "DeviceModule\\Services\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\Services\\DeviceService.cs",
+              "RelativeToolTip": "DeviceModule\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:51:19.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\ThirdPartyLibs\\README.md",
+              "RelativeDocumentMoniker": "DeviceModule\\ThirdPartyLibs\\README.md",
+              "ToolTip": "C:\\Users\\GU\\Desktop\\DeviceSample\\DeviceSample\\DeviceModule\\ThirdPartyLibs\\README.md",
+              "RelativeToolTip": "DeviceModule\\ThirdPartyLibs\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-26T05:51:16.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
